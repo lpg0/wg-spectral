@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"3XHS":function(n,t,o){"use strict";o.r(t),o.d(t,"default",(function(){return s}));o("q1tI");var e=o("Bl7J"),u=o("qKvR");function s(){return Object(u.b)(e.a,null,Object(u.b)("h1",null,"About Pandas Eating Lots"),Object(u.b)("p",null,"We're the only site running on your computer dedicated to showing the best photos and videos of pandas eating lots of food."))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-c4d2789ff3aef3e42093.js.map
